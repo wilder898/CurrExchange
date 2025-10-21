@@ -12,18 +12,17 @@ PROCESO DE INSTALACIÓN:
    Ejecute el siguiente comando en la terminal o consola de comandos:
    git clone https://github.com/wilder898/CurrExchange.git
 
-2. Crear el entorno virtual de Python
-   Crear un entorno virtual con el siguiente comando:
+2. Crear el entorno virtual de Python con el siguiente comando:
    python -m venv venv
 
-3. Activar el entorno virtual
+3. Activar el entorno virtual:
    venv\Scripts\activate
 
-4. Instalar las dependencias necesarias
+4. Instalar las dependencias necesarias: 
    Una vez activo el entorno virtual, ejecute el siguiente comando para instalar todos los paquetes requeridos:
    pip install -r requirements.txt
 
-5. Ejecutar la aplicación
+5. Ejecutar la aplicación: 
    Finalmente, para iniciar el programa, utilice el siguiente comando:
    python src/main.py
 
