@@ -34,7 +34,7 @@ CARACTERÍSTICAS PRINCIPALES:
 
 AUTORES:
 
-Brayan Camilo Zarabanda Guerrero Documentador del proyecto 
-Cristian Elian López Monrroy 
-Javier Duván Moreno Múnera Diseño de interfaz 
-Wilder Antonio Aristizábal Giraldo
+Brayan Camilo Zarabanda Guerrero documentación de la estructura y funcionalidad del proyecto
+Cristian Elian López Monrroy: Estructura inicial - Carpeta src y archivos main.py y utils.py 
+Javier Duván Moreno Múnera: implementación el feature de conversión de moneda con requests y agregué más info al archivo .gitignore.
+Wilder Antonio Aristizábal Giraldo: creación del repositorio y la rama develop - Creación y despliegue del entonrno virtual, integración de dependencia y creación  del archivo .gitignore. 
