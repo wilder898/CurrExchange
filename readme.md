@@ -1,0 +1,41 @@
+PROYECTO: CONVERSOR DE DIVISAS
+
+
+OBJETIVO:
+Desarrollar una aplicación que permita realizar la conversión de divisas entre diferentes monedas de manera rápida, precisa y sencilla.
+La aplicación utiliza tasas de cambio actualizadas y ofrece soporte para múltiples monedas internacionales como dólar (USD), euro (EUR), peso colombiano (COP), yen japonés (JPY), entre otras.
+
+
+PROCESO DE INSTALACIÓN:
+
+1. Clonar el repositorio desde GitHub
+   Ejecute el siguiente comando en la terminal o consola de comandos:
+   git clone https://github.com/wilder898/CurrExchange.git
+
+2. Crear el entorno virtual de Python
+   Crear un entorno virtual con el siguiente comando:
+   python -m venv venv
+
+3. Activar el entorno virtual
+   venv\Scripts\activate
+
+4. Instalar las dependencias necesarias
+   Una vez activo el entorno virtual, ejecute el siguiente comando para instalar todos los paquetes requeridos:
+   pip install -r requirements.txt
+
+5. Ejecutar la aplicación
+   Finalmente, para iniciar el programa, utilice el siguiente comando:
+   python src/main.py
+
+
+CARACTERÍSTICAS PRINCIPALES:
+   Conversión entre monedas.
+   Interfaz sencilla y fácil de usar.
+   Validación de datos y manejo de errores.
+
+AUTORES:
+
+Brayan Camilo Zarabanda Guerrero Documentador del proyecto 
+Cristian Elian López Monrroy 
+Javier Duván Moreno Múnera Diseño de interfaz 
+Wilder Antonio Aristizábal Giraldo
