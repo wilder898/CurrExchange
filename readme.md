@@ -16,7 +16,7 @@ PROCESO DE INSTALACIÓN:
    python -m venv .venv
 
 3. Activar el entorno virtual:
-   venv\Scripts\activate
+   .venv\Scripts\activate
 
 4. Instalar las dependencias necesarias: 
    Una vez activo el entorno virtual, ejecute el siguiente comando para instalar todos los paquetes requeridos:
